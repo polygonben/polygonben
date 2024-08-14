@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/polygonben" target="blank"><img src="https://img.shields.io/twitter/follow/polygonben?logo=twitter&style=for-the-badge" alt="polygonben" /></a> </p>
 
-- 📝 I post various CTF writeups, malware analysis or evasion on these blogs: [Github](https://polygonben.github.io/) & [Medium](https://medium.com/@polygonben)
+- 📝 I post various blos on CTF writeups, malware analysis, evasion & detection technqiues here: [Github](https://polygonben.github.io/) & [Medium](https://medium.com/@polygonben)
 - <a href="https://www.youtube.com/c/polygonben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="polygonben" height="30" width="40" /></a> - I record CTF live walkthroughs & odd malware analysis video here: [YouTube](https://www.youtube.com/@polygonben)
 - Speaker @ BSides Exeter 2024 - "Cloaked in Pixels: Concealing Payloads with Steganography"
 - [Cyber Discovery Elite 2019/2020 participant](https://eu.badgr.com/public/assertions/1aDow0jUTn2k7GiSJoSF8A) - completed SANS SEC560 as a result of this
