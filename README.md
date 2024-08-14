@@ -51,7 +51,15 @@
 ## CTFs
 
 - 2nd place @ BSides Cymru 2024
-- 1st place @ April 2024 HackTheBox Meetup 
+- 1st place @ April 2024 HackTheBox Meetup
+
+## Certs / Courses
+
+- [eLearnSecurity Junior Penetration Tester](https://my.ine.com/certificate/4adb0d38-bcbd-4fb5-beab-6446190f3fda)
+- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/54fc93ac-2ba7-459e-bd58-1fc5e62fc82a/public_url)
+- [Cyber Discovery Elite 2020](https://eu.badgr.com/public/assertions/1aDow0jUTn2k7GiSJoSF8A)
+- [SANS SEC560]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
