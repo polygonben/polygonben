@@ -58,8 +58,8 @@
 - [eLearnSecurity Junior Penetration Tester](https://my.ine.com/certificate/4adb0d38-bcbd-4fb5-beab-6446190f3fda)
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/54fc93ac-2ba7-459e-bd58-1fc5e62fc82a/public_url)
 - [Cyber Discovery Elite 2020](https://eu.badgr.com/public/assertions/1aDow0jUTn2k7GiSJoSF8A)
-- [SANS SEC560]
-
+- [SANS SEC560 - Enterprise Penetration Testing](https://github.com/polygonben/polygonben/blob/main/SEC560.pdf)
+- [TCM Security - Python 101 for Hackers](https://github.com/polygonben/polygonben/blob/main/Python101.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
