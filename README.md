@@ -16,7 +16,7 @@
 - [Cobalt Strike Beacon Dropper analysis](https://polygonben.github.io/malware%20analysis/Cobalt-Strike-Beacon-Analysis/)
 - [DarkGate Loader execution-chain analysis - X thread](https://x.com/polygonben/status/1768867675692831008)
 - [DarkGate Loader execution-chain analysis - YT vid](https://www.youtube.com/watch?v=_0_Qdx6ED2Q)
-- [JS based RAT de-obfuscation](https://medium.com/@polygonben/de-obfuscating-a-js-based-rat-1-ae710c778d2)
+- [JS-based RAT de-obfuscation](https://medium.com/@polygonben/de-obfuscating-a-js-based-rat-1-ae710c778d2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Evasion & Detection
