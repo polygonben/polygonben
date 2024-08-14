@@ -60,6 +60,10 @@
 - [Cyber Discovery Elite 2020](https://eu.badgr.com/public/assertions/1aDow0jUTn2k7GiSJoSF8A)
 - [SANS SEC560 - Enterprise Penetration Testing](https://github.com/polygonben/polygonben/blob/main/SEC560.pdf)
 - [TCM Security - Python 101 for Hackers](https://github.com/polygonben/polygonben/blob/main/Python101.pdf)
+- [HTB - Windows Event Logs & Finding Evil](https://academy.hackthebox.com/achievement/badge/1507780b-4983-11ee-acfc-bea50ffe6cb4)
+- [HTB - JavaScript Deobfuscation](https://academy.hackthebox.com/achievement/badge/b1c074eb-c408-11ed-acfc-bea50ffe6cb4)
+- [HTB - Security Monitoring & SIEM](https://academy.hackthebox.com/achievement/badge/b1c074eb-c408-11ed-acfc-bea50ffe6cb4)
+- [HTB - Incident Handling Process](https://academy.hackthebox.com/achievement/badge/1413ade4-80c4-11ee-b5a6-bea50ffe6cb4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
