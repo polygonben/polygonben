@@ -3,11 +3,54 @@
 
 <p align="left"> <a href="https://twitter.com/polygonben" target="blank"><img src="https://img.shields.io/twitter/follow/polygonben?logo=twitter&style=for-the-badge" alt="polygonben" /></a> </p>
 
-- 📝 I regularly write articles on [https://polygonben.github.io/](https://polygonben.github.io/)
+- 📝 I post various CTF writeups, malware analysis or evasion on these blogs: [Github](https://polygonben.github.io/) & [Medium](https://medium.com/@polygonben)
+- <a href="https://www.youtube.com/c/polygonben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="polygonben" height="30" width="40" /></a> - I record CTF live walkthroughs & odd malware analysis video here: [YouTube](https://www.youtube.com/@polygonben)
+- Speaker @ BSides Exeter 2024 - "Cloaked in Pixels: Concealing Payloads with Steganography"
+- [Cyber Discovery Elite 2019/2020 participant](https://eu.badgr.com/public/assertions/1aDow0jUTn2k7GiSJoSF8A) - completed SANS SEC560 as a result of this
 
-### Blogs posts
+## Notable blog posts, threads & YT vids
+
+### Malware Analysis
 <!-- BLOG-POST-LIST:START -->
+- [Cobalt Strike Beacon Dropper analysis](https://polygonben.github.io/malware%20analysis/Cobalt-Strike-Beacon-Analysis/)
+- [DarkGate Loader execution-chain analysis - X thread](https://x.com/polygonben/status/1768867675692831008)
+- [DarkGate Loader execution-chain analysis - YT vid](https://www.youtube.com/watch?v=_0_Qdx6ED2Q)
+- [JS based RAT de-obfuscation](https://medium.com/@polygonben/de-obfuscating-a-js-based-rat-1-ae710c778d2)
 <!-- BLOG-POST-LIST:END -->
+
+### Evasion & Detection
+- [Detecting unmanaged PowerShell/.NET injection](https://medium.com/@polygonben/unmasking-defence-evasion-unmanaged-powershell-c-net-process-injection-88d1f1a180d5)
+- [Detecting DLL hijacking](https://medium.com/@polygonben/detecting-dll-hijacking-with-sysmon-chainsaw-custom-sigma-rules-7e32215d5d96)
+- [Cloaked in Pixels: Concealing Payloads with Steganography](https://polygonben.github.io/defence%20evasion/Creating-Stego-payloads/)
+- [Cloaked in Pixels: Evasion update](https://polygonben.github.io/defence%20evasion/Creating-Stego-payloads2/)
+- [Detecting Mimikatz - sekurlsa::logonpasswords](https://www.youtube.com/watch?v=wwIBpPDGHu4)
+
+### Phishing analysis
+
+- [John Lewis - Credit Card harvesting](https://medium.com/@polygonben/phishing-analysis-john-lewis-credit-card-harvesting-eba0901269fd)
+
+### HackTheBox Videos
+
+#### Boxes
+
+- [Magic](https://www.youtube.com/watch?v=hXgjh5dAU4g)
+- [Traverxec](https://www.youtube.com/watch?v=W4ytNBznJyc)
+- [Photobomb](https://www.youtube.com/watch?v=IGlLzvlQ2tg)
+- [Frolic](https://www.youtube.com/watch?v=iaoRFmsXH_8)
+- [Sau](https://www.youtube.com/watch?v=_7jZtafzozQ)
+- [Broker](https://www.youtube.com/watch?v=f2GHfAL92v0)
+- [... more here](https://www.youtube.com/watch?v=ZBrgNdqwqiE&list=PLBlTvfmn_8bLKDXO2ctS2hbAAyg-ymrE_)
+
+
+#### Sherlock's
+
+- [Unit42](https://www.youtube.com/watch?v=IM12lnRbLKY)
+- [Brutus](https://www.youtube.com/watch?v=gY9BuJBfDQY)
+
+## CTFs
+
+- 2nd place @ BSides Cymru 2024
+- 1st place @ April 2024 HackTheBox Meetup 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
