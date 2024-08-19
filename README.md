@@ -26,6 +26,7 @@ here: [YouTube](https://www.youtube.com/@polygonben)
 - [Cloaked in Pixels: Concealing Payloads with Steganography](https://polygonben.github.io/defence%20evasion/Creating-Stego-payloads/)
 - [Cloaked in Pixels: Evasion update](https://polygonben.github.io/defence%20evasion/Creating-Stego-payloads2/)
 - [Detecting Mimikatz - sekurlsa::logonpasswords](https://www.youtube.com/watch?v=wwIBpPDGHu4)
+- [Hunting for persistence](https://www.youtube.com/watch?v=UnPNOCJlnpo)
 
 ### Phishing analysis
 
