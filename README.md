@@ -8,6 +8,9 @@
 here: [YouTube](https://www.youtube.com/@polygonben)
 - Speaker @ BSides Exeter 2024 - ["Cloaked in Pixels: Concealing Payloads with Steganography"](https://www.youtube.com/watch?v=WLoon-6d2oU)
 - [Cyber Discovery Elite 2019/2020 participant](https://eu.badgr.com/public/assertions/1aDow0jUTn2k7GiSJoSF8A) - completed [SANS SEC560](https://www.sans.org/cyber-security-courses/enterprise-penetration-testing/) course as a result of this
+- [#UKCyberTeam Competition Finalist](https://www.credly.com/earner/earned/badge/28cb22b0-bdb7-4638-9bf2-52bb2c30b26a)
+- Completed the [GIAC Certified Forensic Analyst (GCFA)](https://www.credly.com/badges/31037d61-5d73-483b-9064-46e36997e4ab/public_url) as part of SANS FOR508: Advanced Incident Response, Threat Hunting and Digital Forensics
+- Member of the [GIAC Advisory Board](https://www.credly.com/badges/1fae9046-c2bf-4ad9-b117-448ab348ca33/public_url) 
 - Currently working as a Senior Analyst @ Accenture
 
 ## Notable blog posts, threads & YT vids
