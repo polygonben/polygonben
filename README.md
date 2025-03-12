@@ -33,10 +33,6 @@ here: [YouTube](https://www.youtube.com/@polygonben)
 - [Detecting Mimikatz - sekurlsa::logonpasswords](https://www.youtube.com/watch?v=wwIBpPDGHu4)
 - [Hunting for persistence](https://www.youtube.com/watch?v=UnPNOCJlnpo)
 
-### Phishing analysis
-
-- [John Lewis - Credit Card harvesting](https://medium.com/@polygonben/phishing-analysis-john-lewis-credit-card-harvesting-eba0901269fd)
-
 ### HackTheBox Videos
 
 #### Boxes
@@ -71,6 +67,10 @@ here: [YouTube](https://www.youtube.com/@polygonben)
 - [HTB - JavaScript Deobfuscation](https://academy.hackthebox.com/achievement/badge/b1c074eb-c408-11ed-acfc-bea50ffe6cb4)
 - [HTB - Security Monitoring & SIEM](https://academy.hackthebox.com/achievement/badge/b1c074eb-c408-11ed-acfc-bea50ffe6cb4)
 - [HTB - Incident Handling Process](https://academy.hackthebox.com/achievement/badge/1413ade4-80c4-11ee-b5a6-bea50ffe6cb4)
+
+  ## News Features
+
+  - [TechNadu - Hackers Use Telegram as Malicious C2 Centers To Distribute 'Nova' Malware](https://www.technadu.com/hackers-use-telegram-as-malicious-c2-centers-to-distribute-nova-malware/579817/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
