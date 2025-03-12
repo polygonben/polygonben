@@ -58,6 +58,7 @@ here: [YouTube](https://www.youtube.com/@polygonben)
 
 ## Certs / Courses
 
+- [GIAC GCFA](https://www.credly.com/badges/31037d61-5d73-483b-9064-46e36997e4ab/public_url)
 - [eLearnSecurity Junior Penetration Tester](https://my.ine.com/certificate/4adb0d38-bcbd-4fb5-beab-6446190f3fda)
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/54fc93ac-2ba7-459e-bd58-1fc5e62fc82a/public_url)
 - [Cyber Discovery Elite 2020](https://eu.badgr.com/public/assertions/1aDow0jUTn2k7GiSJoSF8A)
