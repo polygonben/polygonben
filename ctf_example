@@ -1,0 +1,15 @@
+```php
+<?php
+return function ($event) {
+    require_once("flag.php");
+    $hash = "0e901030918301310378749512009101";
+    $salt = "c789abc318a2d1ac";
+    if (isset($event['password'])) {
+        if (md5($salt . $event['password']) == $hash) {
+            return $flag;
+        }
+    }
+    return "Incorrect";
+};
+?>
+```
