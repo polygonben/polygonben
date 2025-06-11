@@ -11,7 +11,7 @@ here: [YouTube](https://www.youtube.com/@polygonben)
 - [#UKCyberTeam Competition Finalist](https://www.credly.com/earner/earned/badge/28cb22b0-bdb7-4638-9bf2-52bb2c30b26a)
 - Completed the [GIAC Certified Forensic Analyst (GCFA)](https://www.credly.com/badges/31037d61-5d73-483b-9064-46e36997e4ab/public_url) as part of SANS FOR508: Advanced Incident Response, Threat Hunting and Digital Forensics
 - Member of the [GIAC Advisory Board](https://www.credly.com/badges/1fae9046-c2bf-4ad9-b117-448ab348ca33/public_url) 
-- Currently working as a Senior Analyst @ Accenture
+- Currently working as a Analyst @ Huntress
 
 ## Notable blog posts, threads & YT vids
 
