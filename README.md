@@ -15,21 +15,18 @@ here: [YouTube](https://www.youtube.com/@polygonben)
 
 ## Notable blog posts, threads & YT vids
 
-### Malware Analysis / Threat Intelligence
+### Malware Analysis / Threat Intelligence / DFIR
+
 <!-- BLOG-POST-LIST:START -->
+- [Chinese actor targets Vietnemse universities](https://ctrlaltint3l.github.io/threat%20research/china-vietnam-campaign/)
+- [Hands on keyboard intrusion #1](https://x.com/polygonben/status/1943711153059664161)
+- [Compromising Threat Actor Comms](https://polygonben.github.io/malware%20analysis/Compromising-Threat-Actor-Communications/)
+- [Nova Malware Analysis](https://polygonben.github.io/malware%20analysis/Nova-Analysis/)
 - [Cobalt Strike Beacon Dropper analysis](https://polygonben.github.io/malware%20analysis/Cobalt-Strike-Beacon-Analysis/)
 - [DarkGate Loader execution-chain analysis - X thread](https://x.com/polygonben/status/1768867675692831008)
 - [DarkGate Loader execution-chain analysis - YT vid](https://www.youtube.com/watch?v=_0_Qdx6ED2Q)
 - [JS-based RAT de-obfuscation](https://medium.com/@polygonben/de-obfuscating-a-js-based-rat-1-ae710c778d2)
 <!-- BLOG-POST-LIST:END -->
-
-### Evasion & Detection
-- [Detecting unmanaged PowerShell/.NET injection](https://medium.com/@polygonben/unmasking-defence-evasion-unmanaged-powershell-c-net-process-injection-88d1f1a180d5)
-- [Detecting DLL hijacking](https://medium.com/@polygonben/detecting-dll-hijacking-with-sysmon-chainsaw-custom-sigma-rules-7e32215d5d96)
-- [Cloaked in Pixels: Concealing Payloads with Steganography](https://polygonben.github.io/defence%20evasion/Creating-Stego-payloads/)
-- [Cloaked in Pixels: Evasion update](https://polygonben.github.io/defence%20evasion/Creating-Stego-payloads2/)
-- [Detecting Mimikatz - sekurlsa::logonpasswords](https://www.youtube.com/watch?v=wwIBpPDGHu4)
-- [Hunting for persistence](https://www.youtube.com/watch?v=UnPNOCJlnpo)
 
 ### HackTheBox Videos
 
