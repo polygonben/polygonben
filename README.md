@@ -6,7 +6,7 @@
 - 📝 I post various blogs covering CTF writeups, malware analysis, evasion & detection technqiues here: [Github](https://polygonben.github.io/) & [Medium](https://medium.com/@polygonben)
 - <a href="https://www.youtube.com/c/polygonben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="polygonben" height="30" width="40" /></a> - I record CTF live walkthroughs & odd malware analysis videos
 here: [YouTube](https://www.youtube.com/@polygonben)
-- Speaker @ BSides Exeter 2024 - ["Cloaked in Pixels: Concealing Payloads with Steganography"](https://www.youtube.com/watch?v=WLoon-6d2oU)
+- Spoke @ DEFCON33, Malware Village, hack.lu & BSides: Exeter, Bristol, Cheltenham, Copenhagen, Cymru, Newcastle, Reykjavik  
 - [Cyber Discovery Elite 2019/2020 participant](https://eu.badgr.com/public/assertions/1aDow0jUTn2k7GiSJoSF8A) - completed [SANS SEC560](https://www.sans.org/cyber-security-courses/enterprise-penetration-testing/) course as a result of this
 - [#UKCyberTeam Competition Finalist](https://www.credly.com/earner/earned/badge/28cb22b0-bdb7-4638-9bf2-52bb2c30b26a)
 - Completed the [GIAC Certified Forensic Analyst (GCFA)](https://www.credly.com/badges/31037d61-5d73-483b-9064-46e36997e4ab/public_url) as part of SANS FOR508: Advanced Incident Response, Threat Hunting and Digital Forensics
@@ -48,6 +48,7 @@ here: [YouTube](https://www.youtube.com/@polygonben)
 
 ## CTFs
 
+- 1st place @ BSides Bristol 2025
 - 2nd place @ BSides Cymru 2024
 - 1st place @ April 2024 HackTheBox Meetup
 
